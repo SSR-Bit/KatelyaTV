@@ -25,8 +25,8 @@
       "api": "https://api.1080zyku.com/inc/apijson_vod.php",
       "name": "百度资源",
       "is_adult": false
-    }
-        "dyttzy": {
+    },
+    "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
